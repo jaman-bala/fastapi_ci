@@ -37,7 +37,7 @@ jobs:
 
       - name: Run mypy
         run: |
-          poetry run mypy ./
+          poetry run mypy ./evrone_fastapi
 
       - name: Run pylint
         run: |
