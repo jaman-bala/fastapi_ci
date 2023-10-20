@@ -33,7 +33,7 @@ jobs:
 
       - name: Run Test
         run: |
-          poetry run pytest ./evrone_fastapi
+          poetry run pytest .\evrone_fastapi
 
       - name: Run mypy
         run: |
