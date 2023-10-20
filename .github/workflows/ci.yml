@@ -3,7 +3,7 @@ name: Main CI
 on: [push]
 
 jobs:
-  run_tests:
+  run_test:
     runs-on: ubuntu-latest
 
     environment: test
