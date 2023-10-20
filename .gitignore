@@ -2,3 +2,4 @@
 __pycache__
 .mypy_cache
 evrone_fastapi/.pytest_cache
+evrone_fastapi/.mypy_cache
