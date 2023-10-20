@@ -9,4 +9,4 @@ class Settings(BaseSettings):
     main_url: str
 
 
-settings = Settings()
+settings = Settings(main_url="/")

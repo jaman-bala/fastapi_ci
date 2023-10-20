@@ -3,7 +3,7 @@
 """
 from fastapi import FastAPI
 from pydantic import BaseModel
-from evrone_fastapi.settings import settings
+from .settings import settings
 
 
 app = FastAPI()
